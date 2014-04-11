@@ -1,7 +1,7 @@
 Package: iontreeData
 Type: Package
 Title: Data provided to show the usage of functions in iontree package
-Version: 1.0.0
+Version: 1.1.0
 Author: Mingshu Cao
 Maintainer: Mingshu Cao <mingshu.cao@agresearch.co.nz>
 Description: Raw MS2, MS3 scans from direct infusion mass spectrometry (DIMS) and a demo ion tree database 'mzDB' derived from the DIMS data are included. The demo database is used to show the functionalities provided by the 'iontree' package, not for the purpose of compound identification by any means.
